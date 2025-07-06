@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import projectData from '../data/projects.json'
-import './Projects.css'
+import '../styles/Projects.css'
 
 export default function Projects() {
   const [filter, setFilter] = useState('all')

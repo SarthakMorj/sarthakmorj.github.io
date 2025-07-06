@@ -1,0 +1,12 @@
+.dark-mode-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: var(--nav-bg);
+  border: none;
+  color: var(--nav-text);
+  padding: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1001;
+}

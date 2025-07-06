@@ -1,0 +1,37 @@
+.contact form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: auto;
+}
+
+.contact label {
+  margin-top: 1rem;
+  font-weight: 500;
+}
+
+.contact input,
+.contact textarea {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: inherit;
+}
+
+.contact button {
+  margin-top: 1.5rem;
+  padding: 0.75rem;
+  border: none;
+  background-color: var(--accent-color);
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.contact button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

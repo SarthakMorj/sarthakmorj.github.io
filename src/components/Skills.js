@@ -1,6 +1,6 @@
 import React from 'react'
 import { useInView } from 'react-intersection-observer'
-import './Skills.css'
+import '../styles/Skills.css'
 
 const skillList = [
   {name:'Python', level:90},

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ASR → Summary Pipeline",
+    "desc": "Automated speech transcription & summarization on Databricks (Whisper + LLaMA).",
+    "link": "#",
+    "category": "NLP"
+  },
+  {
+    "title": "Loan Defaulter Causal Analysis",
+    "desc": "Identified drivers of default in imbalanced data using scikit-learn.",
+    "link": "#",
+    "category": "Analytics"
+  },
+  {
+    "title": "Image Forgery Detection",
+    "desc": "Detect forgery using SIFT & OpenCV.",
+    "link": "#",
+    "category": "Computer Vision"
+  },
+  {
+    "title": "Prometheus Chatbot (Telegram)",
+    "desc": "Telegram bot to answer freshman queries (TensorFlow, Firebase).",
+    "link": "#",
+    "category": "NLP"
+  }
+]
